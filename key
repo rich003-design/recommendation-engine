@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "recommendationengine-472815",
+  "private_key_id": "447f84b3c95a25a36ca0a0fe74cec9e32dee0cd5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3LLE66Q76aVrz\n2/nXSwBL8dJDOF+sQaRw1z5ITxOPdFT56oAYxNUin5X3JPIXpef6EhVaUkpE4JJZ\nkLI7hTx/98ijaz4LZCRkJAhy7MevDCvYMuVEPQ3hX1ticjN2hHuC/XVMVXwTMR7K\nUa0sKRGwGAkZKulDfmoTnnHveCZ4vkKzG/Gi2TiYpCfDD6lmtwL8FUnijVrS86wA\nAZA8MrnVMrr4GUYIUPy11Yz5yfdeE7AGVF8FIEfX9aeVjCUw/s0CXR6uNJgWDWRA\nbYES/nf7SFPjeC9R3PfLTw18ZhWHM3x/5hXObp/ESMU3r4d3iCfURBzx2VS3hGwm\njsXRincHAgMBAAECggEAAr6aXcEw1pR/oN+qlUEvBdFfnUeXAHqv2sARDZtOcFA6\nIqFkRAwyOj+f+abf7TAlO8xi7cpi2sPL6TPplwRxi5LyAFZJ+TLm98bIzRQF+KSa\n/2PKA+Uj7jzcwYfQbSF/IYmK8LP+pm1UNrrVYS/2tRwnz9WWt5vyDwemOjKjQr+V\nRlxMavqwBSO03hTksXiRtG+0Bz8n3+49IPU9Gq6OEvuocbRnigemVexQW4WdM7Ru\nQ9YLIBT1vPv1Bi0eoN0836usN1zBj2pColez5xbTeDJohJiSfQawueiUxiHrS9gz\n5GgzxCsWzsmoex6VUh1jn1GFQkerIPqqggLNGJJIgQKBgQDj+xAAdzhgn4P6jZL2\nftdU0WI4QHZED0SCTHXNZJl80kM9HbJ6qa7ZUpkCa93OFCeFg99ZTSCWvpP5lHzy\n/TeIHwGjVEA7FAFxs8kH/OIIv1Xjevnk8x2+J04/2CoqzsKhCzN/tk/MGM5fToSV\nuh0SaD83Ol3YzU34Ynk/8ZZBgQKBgQDNr+X17tIzLo72XLbh/5CkGsLf2gXHmCcM\nPOOLBlRwvVN9o9vk0Twei62E36APZVhIiiByFHShDoLq2AgyN+PHJVC6R1hXCcvN\nIpoZcDg7TPLJNmcW6iFBYHKr94Ckl+N7WIRTR+0iIGm51SvrdH8kvM/oIH5+e8NU\nsitAhmvshwKBgQDafa4bVCcS6y3YfcBgPrXuUvF4CceOeLdmzRKFcylqqDTKqOB5\nkI/DNdbwrCIaM9Sgr/7pHfLipek5Y6bQVf/XlCfEuaUJOaYcq3o6DpEuYvlUl3JR\nivJxYEgtBeV7u0Zqg0qq1jXp28hFLQICYSklkAUtz+FLO4/DQdUEhGtFgQKBgQCz\nhYLAU+FCqrA8dk9okRY9JN5RYokI29O46qvu+2dXvubQEeQqojRGtMKN5mBdD6cu\nKOCIsTHaIEBDmKoOqpkzh24eJ4cC8JngQQMekMODfnWpCMKRTWgZF4T+ctbk0WzK\ni0dzKKPf1Upx14ytxM/z0JflkfbVjk+97IOznZ80oQKBgBvE3UA2Z8+XprowiJ78\nG/zOa2Hx4uw7Mxn1axRQSrLzXeBkNfuY5KVBA0yG4uVQFm+HBKuTvZ8hJdkSfAP6\nPRnW1bj0yr/8OAKR7ahyZascTsrwtEeU8h+pMOFj7Fg5vfHUzWc3gsm5/sRBNFYh\n/zaJ/DwVDvsS4cl4H3wb2yn+\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigqueryserviceaccount@recommendationengine-472815.iam.gserviceaccount.com",
+  "client_id": "103790875132700391386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}
