@@ -3,7 +3,7 @@ Main script for extracting GA4 data from BigQuery
 """
 
 import argparse
-from data_extraction import extract_ga4_data, save_data_to_csv
+from src.data_extraction import extract_ga4_data, save_data_to_csv
 import os
 
 def main():
