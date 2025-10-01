@@ -8,10 +8,12 @@ from predict import predict_component
 
 @dsl.pipeline(
     name="ml-training-pipeline",
-    description="End-to-end ML pipeline for GA4 data"
+    description="End-to-end ML pipeline for GA4 data",
+    pipeline_root="gs://recommend101-bucket/pipeline-root/"  # Add your GCS path
 )
+
 def ml_pipeline(
-    data_path: str = "data/raw/test_sample.csv"
+    data_path: str = "gs://recommend101-bucket/data/raw/test_sample.csv"
 ):
     # Step 1: Clean the data
     clean_data_op = clean_ga4_data_component(
